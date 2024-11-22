@@ -63,6 +63,7 @@ public void loginTest()
 }
 
 1. click the button
+	2. remove the button
 
 
 
