@@ -62,6 +62,8 @@ public void loginTest()
 }
 }
 
+1. click the button
+
 
 
 
